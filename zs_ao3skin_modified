@@ -84,8 +84,8 @@
 #header h1.heading a::after {
   content: "";
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 70%;
   background: url("https://raw.githubusercontent.com/sillycosmo/zs/refs/heads/main/zs.mail.jpg") no-repeat center;
   background-size: 200% 200%;
   background-position: center;

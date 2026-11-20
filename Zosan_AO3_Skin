@@ -1,1 +1,18 @@
+/* body /*
+body {
+background-color: #90EE90;
+color: #C1E1EC;
+scrollbar-color: #C1E1EC #228b22; /* blue bar, green border /*
+}
+
+/* selection, highlight or copy-paste /*
+:: selection {
+color: #bcf5bc; /* light green
+background-color: #9370db;
+}
+
+/* outer -- background of the screen /*
+#outer {
+background: url(""); /* from pinterest: https://pin.it/7fEPSk9Nv /*
+
 

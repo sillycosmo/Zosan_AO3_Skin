@@ -13,6 +13,70 @@ background-color: #9370db;
 
 /* outer -- background of the screen /*
 #outer {
-background: url(""); /* from pinterest: https://pin.it/7fEPSk9Nv /*
+background: url("https://raw.githubusercontent.com/sillycosmo/zs/refs/heads/main/background.jpg"); /* from pinterest: https://pin.it/7fEPSk9Nv /*
+background-attachment: fixed;
+background-position: center;
+}
+
+/* ao3 header/banner thing /*
+#header {
+font-size: 0.875em;
+margin: 0 0 1em;
+padding: 5;
+position: relative;
+background: url("https://raw.githubusercontent.com/sillycosmo/zs/refs/heads/main/zs.mailboxxi.jpg"); /* banner image: by mailboxxi_ on twt /*
+background-position: top;
+background-size: 100px;
+}
+
+/* ao3 logo /*
+#header .heading a {
+color: #
+font-size: 1.714em;
+line-height: 1.75em;
+font-weight: bold;
+}
+
+/* small menu bar underneath the ao3 banner /*
+#header .menu,
+#small_login {
+background: #228b22;
+box-shadow: none;
+}
+
+#header .primary {
+background: #228b22;
+padding: 0 0;
+width: 100%;
+box-shadow: none;
+}
+
+/* header color when opened i think...? /*
+#header a,
+#header a, visited,
+#header .primary .open a,
+#header .primary a {
+color: #d2f8d2;
+}
+
+/* picture besides ao3 logo /*
+#header logo {
+content: url("");
+}
+
+/* menu list /*
+#header .menu li {
+  border-bottom: none;
+}
+
+/* when you hover on the header buttons /*
+#header .user a:hover,
+#header .user a:focus {
+  color: #C1E1EC;
+  border-radius: 0.25em;
+}
+
+
+
 
 

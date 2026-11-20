@@ -86,7 +86,7 @@
   display: block;
   width: 100%;
   height: 100%;
-  background: url("https://raw.githubusercontent.com/sillycosmo/zs/refs/heads/main/zsbymailboxxi.png?token=GHSAT0AAAAAAERIFL5KPNYXFBQNHCKC2YJC2YARWBQ") no-repeat center;
+  background: url("https://raw.githubusercontent.com/sillycosmo/zs/refs/heads/main/zs.mail.jpg") no-repeat center;
   background-size: 200% 200%;
   background-position: center;
 }
